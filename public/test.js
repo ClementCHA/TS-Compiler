@@ -5,6 +5,6 @@
 //? Include - Exclude - Line 102 tsconfig.json
 //compilerOption
 // tsconfig - lib
+//TsConfig Option de base
 //! If active, the default library wont work anymore
 //? https://www.typescriptlang.org/tsconfig#lib
-//TsConfig Option de base: 

@@ -10,10 +10,11 @@
 
 
 // tsconfig - lib
+//TsConfig Option de base
 
 //! If active, the default library wont work anymore
 
 //? https://www.typescriptlang.org/tsconfig#lib
 
-//TsConfig Option de base: 
+
 

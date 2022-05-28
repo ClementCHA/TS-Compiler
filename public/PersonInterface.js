@@ -1,5 +1,4 @@
 "use strict";
-/// <reference path="PersonInterface.ts"
 var App;
 (function (App) {
     class Person {
